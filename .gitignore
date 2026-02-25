@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+plant_tf/
+venv/
+.DS_Store
